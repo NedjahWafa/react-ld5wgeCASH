@@ -1,0 +1,31 @@
+.form-desc,
+.form-info,
+.form-field {
+  margin-bottom: 20px;
+}
+
+.ins-form-line__input {
+  margin-bottom: 10px;
+}
+
+textarea {
+  resize: vertical;
+  min-height: 100px;
+  max-height: 200px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.submit-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
